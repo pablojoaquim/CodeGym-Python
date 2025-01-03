@@ -130,3 +130,5 @@ Simulate collaboration by creating another branch (e.g., `feature/new-idea`), ma
 ---
 
 This kata covers essential Git skills and can be repeated or modified to suit different levels of expertise.
+
+This readme file has been modified!
